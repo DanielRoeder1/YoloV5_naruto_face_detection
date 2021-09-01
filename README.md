@@ -1,4 +1,4 @@
-# Detected faces of anime characters using YoloV5
+# Detecting faces of anime characters using YoloV5
 
 In this project a YoloV5 network was trained on a custom manually labeled dataset containing images of characters from the anime Naruto.
 The model was trained to detect one class (faces).
