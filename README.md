@@ -7,3 +7,4 @@ The image scraper notebook contains code for scraping images from the fan wiki a
 The Anime Face Detection using YOLOv5 notebook contains the code for training the YoloV5 network.
 
 Aditionally the trained model is provided.
+-> https://drive.google.com/file/d/1dMOCtR8lSMbcN7cojfxM50tYC9QSPm5P/view
